@@ -1,0 +1,5 @@
+pip==21.2.3
+setuptools==57.4.0
+streamlit
+google-generativeai
+python-dotenv
