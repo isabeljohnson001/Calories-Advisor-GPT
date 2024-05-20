@@ -42,7 +42,7 @@ streamlit run app.py
 ## Results
 
 <kbd>
-<img src=[images/Nutribot.png](https://github.com/isabeljohnson001/Calories-Advisor-GPT/blob/main/images/Nutribot.png)>
+<img src=https://github.com/isabeljohnson001/Calories-Advisor-GPT/blob/main/images/Nutribot.png>
 </kbd>
 
 
