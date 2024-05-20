@@ -8,13 +8,6 @@ NutriBot is an innovative web application designed to provide expert nutritional
 - **Nutritional Analysis:** The app analyzes the uploaded meal image and provides a detailed nutritional summary, including total calories, percentages of protein, fat, carbohydrates, and fiber.
 - **Health Assessment:** Based on the nutritional analysis, the app categorizes the meal as either "Healthy" or "Unhealthy" for individuals aiming to lose weight.
 - **Interactive Chat:** Users can interact with NutriBot through a chat interface, where they can submit meal descriptions and receive tailored nutritional advice.
-
-## Technologies Used
-
-- **Streamlit:** For creating the web interface.
-- **Pillow (PIL):** For image processing.
-- **Google Generative AI (Gemini Pro Vision):** For conducting image-based nutritional analysis.
-- **dotenv:** For managing environment variables.
  
 ## Installation
 
@@ -42,7 +35,12 @@ streamlit run app.py
 ## Results
 
 <kbd>
-<img src=https://github.com/isabeljohnson001/Calories-Advisor-GPT/blob/main/images/Nutribot.png>
+<img src=https://github.com/isabeljohnson001/Calories-Advisor-GPT/blob/main/images/Nutribot-Output-Response-1.png>
+</kbd>
+
+
+<kbd>
+<img src=https://github.com/isabeljohnson001/Calories-Advisor-GPT/blob/main/images/Nutribot-Output-Response-3.png>
 </kbd>
 
 
